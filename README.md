@@ -44,5 +44,5 @@
 
 <!-- Phần footer nhỏ -->
 <p align="center">
-  <sub>Built with ❤️ and Markdown. Biểu đồ dữ liệu được cung cấp bởi <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>.</sub>
+  <sub> ❤️ </sub>
 </p>
