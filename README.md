@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Tài
 
-## 🛠️ Tech Stack & Tools
 
 <!-- Phần hiển thị Badges kỹ năng - Sử dụng style for-the-badge chuyên nghiệp -->
 
