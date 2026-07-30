@@ -30,8 +30,6 @@
 
 ---
 
-<!-- Phân cách bằng đường kẻ ngang -->
----
 
 ## 👋 Connect with me
 
