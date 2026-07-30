@@ -1,9 +1,4 @@
 # Hi there 👋, I'm Tài
-### A Passionate Developer & Tech Enthusiast
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tai53&theme=dark&hide_border=true" alt="tai53's GitHub Streak" />
-</p>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -34,17 +29,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<!-- Phần hiển thị Stats Cards - Sử dụng HTML p tag và align="center" để căn giữa và đặt 2 card nằm cạnh nhau -->
-<p align="center">
-  <!-- Thẻ Thống kê Tổng quan (Stats Card) - theme dark, ẩn viền -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tai53&show_icons=true&theme=dark&hide_border=true" alt="tai53's GitHub Stats" width="48%" />
-  
-  <!-- Thẻ Ngôn ngữ hàng đầu (Top Languages Card) - layout compact, theme dark, ẩn viền -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tai53&layout=compact&theme=dark&hide_border=true" alt="tai53's Top Languages" width="48%" />
-</p>
 
 <!-- Phân cách bằng đường kẻ ngang -->
 ---
